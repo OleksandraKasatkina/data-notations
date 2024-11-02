@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle name="tram" type="land">
+        <fuel>Electrical power</fuel>
+        <color>Blue</color>
+        <route>Around the city</route>
+        <description>A public tram used for city transportation.</description>
+    </vehicle>
+    <vehicle name="train" type="land">
+        <fuel>Electrical power</fuel>
+        <color>Gray</color>
+        <route>Around the country</route>
+        <description>A public train used for trips throughout Poland.</description>
+    </vehicle>
+    <vehicle name="plane" type="air">
+        <fuel>Jet fuel</fuel>
+        <color>White</color>
+        <route>Around the world</route>
+        <description>An airplane for moving between countries and continents.</description>
+        </vehicle>
+</transport>
