@@ -1,0 +1,13 @@
+{
+"Name": "John Smith",
+"Class": "Economy",
+"From": "Barcelona",
+"To": "Madrid",
+"Train": 1234,
+"Seat": "A21",
+"Date": 10.06,
+"Departure": "10:00",
+"Arrive": "11:30",
+"Price": "30 euro"
+}
+
