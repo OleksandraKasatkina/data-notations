@@ -21,7 +21,7 @@ Since the 1970s introduction of portable computers, their forms have changed sig
 
 ## Laptop hardware
 
-The basic components of laptops function identically to their desktop counterparts. Traditionally they were miniaturized and adapted to mobile use, The design restrictions on power, size, and cooling of laptops limit the maximum performance of laptop parts compared to that of desktop components, although that difference has increasingly narrowed.[48]
+The basic components of laptops function identically to their desktop counterparts. Traditionally they were miniaturized and adapted to mobile use, The design restrictions on power, size, and cooling of laptops limit the maximum performance of laptop parts compared to that of desktop components, although that difference has increasingly narrowed.
 
 In general, laptop components are not intended to be replaceable or upgradable by the end-user, except for components that can be detached; in the past, batteries and optical drives were commonly exchangeable. Some laptops feature socketed processors with sockets such as the Socket G2, but many laptops use processors that are soldered to the motherboard. Many laptops come with RAM and storage that is soldered to the motherboard and cannot be easily replaced. This restriction is one of the major differences between laptops and desktop computers, because the large "tower" cases used in desktop computers are designed so that new motherboards, hard disks, sound cards, RAM, and other components can be added. Memory and storage can often be upgraded with some disassembly, but with the most compact laptops, there may be no upgradeable components at all.
 
