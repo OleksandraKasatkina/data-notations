@@ -1,0 +1,66 @@
+form {
+    font-family: Arial, Verdana, sans-serif; /* Set a modern, readable font */
+    max-width: 500px; /* Limit the form's width for better readability */
+    margin: 20px auto; /* Center the form */
+    padding: 15px;
+    border: 1px solid #ccc; /* Add a subtle border around the form */
+    border-radius: 8px; /* Slightly round the corners */
+    background-color: #f9f9f9; /* Light background color */
+}
+
+/* Add space between form fields */
+form div {
+    margin-bottom: 15px; /* Space between fields */
+}
+
+/* Style labels */
+label {
+    font-weight: bold; /* Make labels stand out */
+    display: block; /* Ensure labels are on their own line */
+    margin-bottom: 5px; /* Add a small gap below labels */
+}
+
+/* Style input fields, select, and textarea */
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="date"],
+select,
+textarea {
+    width: 100%; /* Make fields stretch across the form's width */
+    padding: 10px; /* Add padding for readability */
+    border: 1px solid #ccc; /* Add a simple border */
+    border-radius: 4px; /* Round the corners slightly */
+    box-sizing: border-box; /* Ensure padding doesn't exceed the width */
+    font-size: 14px; /* Set a comfortable font size */
+}
+
+/* Add focus effect for input fields */
+input[type="text"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="date"]:focus,
+select:focus,
+textarea:focus {
+    border-color: #66afe9; /* Highlight the border on focus */
+    outline: none; /* Remove the default focus outline */
+    box-shadow: 0 0 5px rgba(102, 175, 233, 0.6); /* Add a glow effect */
+}
+
+/* Style the submit button */
+input[type="submit"] {
+    background-color: #4CAF50; /* Green background for the button */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Add padding inside the button */
+    border: none; /* Remove the default border */
+    border-radius: 4px; /* Slightly round the button corners */
+    font-size: 16px; /* Set a larger font size */
+    cursor: pointer; /* Change cursor to pointer */
+    width: 100%; /* Make the button span the full width */
+    text-align: center; /* Center-align the button text */
+}
+
+/* Hover effect for the submit button */
+input[type="submit"]:hover {
+    background-color: #45a049; /* Slightly darker green on hover */
+}
